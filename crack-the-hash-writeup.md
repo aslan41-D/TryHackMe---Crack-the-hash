@@ -5,7 +5,7 @@ Below I also explain the **traditional method** using hashcat for each hash type
 
 ---
 
-Traditional Method (hashcat)
+# Traditional Method (hashcat)
 
 Normally, you would identify the hash type and then run hashcat with the appropriate mode and wordlist:
 
